@@ -1,1 +1,1 @@
-some text from f2
+text from f2 and different text from f3
